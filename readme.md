@@ -17,6 +17,9 @@
 
 ## Τρόπος Εκτέλεσης
 Ανοίγουμε σε linux στο ίδιο pc 3 terminal και τρεχουμε με τη σειρά:
-1ο: python totormu.py 127.0.0.1 0 2312
-2ο: python totormu.py 127.0.0.1 1 2313
-3ο: python totormu.py 127.0.0.1 2 2314
+```
+1. $python totormu.py 127.0.0.1 0 2312
+2. $python totormu.py 127.0.0.1 1 2313
+3. $python totormu.py 127.0.0.1 2 2314
+}
+```
