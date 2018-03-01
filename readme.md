@@ -21,5 +21,4 @@
 1. $python totormu.py 127.0.0.1 0 2312
 2. $python totormu.py 127.0.0.1 1 2313
 3. $python totormu.py 127.0.0.1 2 2314
-}
 ```
